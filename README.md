@@ -1,8 +1,8 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo Kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.tml dosyası barındırıyor.
+Bu repo Kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
-![](..%5C..%5C..%5CDesktop%5Cgithub.png)
+![örnek görsel](..%5C..%5C..%5CDesktop%5Cgithub.png)
 
 
 ## İnstallation
